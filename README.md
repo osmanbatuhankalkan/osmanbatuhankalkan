@@ -12,13 +12,14 @@ br
 <hr/>
 
 * ### TECH I USE
+<p float="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="100" width="75">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="100" width="75">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="100" width="75">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="100" width="75">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="100" width="75">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="100" width="75">
-
+</p>
 
 <hr/>
 <hr/>
@@ -46,7 +47,7 @@ br
 
 <img src="https://media.giphy.com/media/3o6gbchrcNIt4Ma8Tu/giphy.gif"  width="300" height0="200">
 
- *  :office_worker: :computer: ->    [<img height="25" width="30" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg"/>](https://www.linkedin.com/in/osman-batuhan-kalkan-a74949221/)[Linkedin]
+ *  :office_worker: :computer:->   [<img height="25" width="30"  src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg"/>](https://www.instagram.com/osmanbatuhankalkan/)[Linkedin]
 
 <hr/>
 <hr/>
@@ -58,9 +59,9 @@ br
 <hr/>
 
 
-[Github]: (https://github.com/osmanbatuhankalkan)
+[Github]: https://github.com/osmanbatuhankalkan
 
-[Linkedin]: (https://www.linkedin.com/in/osman-batuhan-kalkan-a74949221/)
+[Linkedin]: https://www.linkedin.com/in/osman-batuhan-kalkan-a74949221/
 
 [Instagram]: https://www.instagram.com/osmanbatuhankalkan/
 
