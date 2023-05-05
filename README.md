@@ -23,37 +23,37 @@ br
 <hr/>
 <hr/>
 
-<details>
+<div>
         <summary> Github Stats </summary>
         <img src="https://github-readme-stats.vercel.app/api?username=osmanbatuhankalkan&show_icons=true&theme=gruvbox)" >
-    </details>
+    </div>
 
 
-<details>
+<div>
         <summary> Most Used Languages </summary>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanbatuhankalkan&layout=compact" >
-    </details>
+    </div>
 
 <hr/>
 <hr/>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk0MjliMzk3OTA2YWEzNmY2ZDFmMWFmNWMyMmZjODYwMTY4ZTc1MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cFlrCthixcb3B6hqwY/giphy.gif"  width="300" height0="200">
 
-*   :technologist: :desktop_computer:->    [<img height="25" width="30" src="https://unpkg.com/simple-icons@v8/icons/github.svg" /> ](https://github.com/osmanbatuhankalkan)        [Github]
+*   :technologist: :desktop_computer:->    [<img height="25" width="30" src="https://unpkg.com/simple-icons@v8/icons/github.svg" /> ](https://github.com/osmanbatuhankalkan)[Github]
 
 <hr/>
 <hr/>
 
 <img src="https://media.giphy.com/media/3o6gbchrcNIt4Ma8Tu/giphy.gif"  width="300" height0="200">
 
- *  :office_worker: :computer: ->    [<img height="25" width="30" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg"/>](https://www.linkedin.com/in/osman-batuhan-kalkan-a74949221/)           [Linkedin]
+ *  :office_worker: :computer: ->    [<img height="25" width="30" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg"/>](https://www.linkedin.com/in/osman-batuhan-kalkan-a74949221/)[Linkedin]
 
 <hr/>
 <hr/>
 
 <img src="https://media.giphy.com/media/u4nV6pzBPDM2I/giphy.gif"  width="300" height0="200">
 
-*  :iphone: :camera:->   [<img height="25" width="30"  src="https://unpkg.com/simple-icons@v8/icons/instagram.svg"/>](https://www.instagram.com/osmanbatuhankalkan/)        [Instagram]
+*  :iphone: :camera:->   [<img height="25" width="30"  src="https://unpkg.com/simple-icons@v8/icons/instagram.svg"/>](https://www.instagram.com/osmanbatuhankalkan/)[Instagram]
 <hr/>
 <hr/>
 
