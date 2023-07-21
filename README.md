@@ -10,7 +10,9 @@ br
 
 <hr/>
 <hr/>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osmanbatuhankalkan&" alt="osmanbatuhankalkan" /></p>
+<hr/>
+<hr/>
 * ### TECH I USE
 <p float="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="100" width="75">
