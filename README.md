@@ -6,9 +6,8 @@
 *   I enjoy programming languages and software development techniques.
 
 *   I'm always excited to meet new people in the field of programming and learn new things from them.
-br 
 
-<hr/>
+
 <hr/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osmanbatuhankalkan&" alt="osmanbatuhankalkan" /></p>
 <hr/>
