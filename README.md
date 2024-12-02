@@ -19,7 +19,7 @@
 
 *   I'm a computer engineering student studying at Arel University in Istanbul.
   
-*   The programming language I aim to improve myself in is C#.I spend my free time learning and working on this language.
+*   The programming language I aim to improve myself in is JAVA.I spend my free time learning and working on this language.
   
 *   At school, we work on developments related to C++,Python, JAVA, and Javascript
 
