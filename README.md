@@ -52,7 +52,6 @@
 
 <p align="center">
   <a href="https://github.com/osmanbatuhankalkan">
-    <img src="https://img.shields.io/badge/Current_Streak-2-blueviolet?style=for-the-badge" alt="Current Streak">
     <img src="https://img.shields.io/badge/Total_Contributions-564-blueviolet?style=for-the-badge" alt="Total Contributions">
     <img src="https://img.shields.io/badge/Longest_Streak-23-blueviolet?style=for-the-badge" alt="Longest Streak">
   </a>
