@@ -39,41 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="70"/>
 </p>
-
 ---
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <a href="https://github.com/osmanbatuhankalkan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=osmanbatuhankalkan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="55%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/osmanbatuhankalkan">
-        <img src="https://img.shields.io/badge/Current_Streak-2-blueviolet?style=for-the-badge" alt="Current Streak">
-    <img src="https://img.shields.io/badge/Total_Contributions-564-blueviolet?style=for-the-badge" alt="Total Contributions">
-    <img src="https://img.shields.io/badge/Longest_Streak-23-blueviolet?style=for-the-badge" alt="Longest Streak">
-  </a>
-</p>
-
-
-
-<p align="center">
-  <a href="https://github.com/osmanbatuhankalkan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanbatuhankalkan&theme=material-palenight&hide_border=false&layout=compact" alt="Top Languages" width="55%" />
-  </a>
-</p>
-
----
-
-## 🏆 Achievements:
-
-![](https://github-profile-trophy.vercel.app/?username=osmanbatuhankalkan&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ## 📌 Connect with Me:
 
 <p align="center">
